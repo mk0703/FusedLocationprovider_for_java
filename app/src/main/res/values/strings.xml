@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FusedLocationAPP</string>
+    <string name="button">Button</string>
+    <string name="message">位置情報取得のため，許可をお願いいたします．</string>
+    <string name="massage2">位置情報取得のため，権限設定に移行し，許可をお願いいたします．</string>
+    <string name="sbar_button1">OK?</string>
+    <string name="sbar_button2">権限設定へ</string>
+</resources>
